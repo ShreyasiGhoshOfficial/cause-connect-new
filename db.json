@@ -7,9 +7,9 @@
       "email": "alice@example.com",
       "accountnumber": "9876543210",
       "amount": "5000",
-      "description": "Funds needed for Alice's medical treatment. Alice is suffering from a life-threatening disease, lets raise funds so that we can help Alice.",
+      "description": "Funds needed for Alice's medical treatment. Alice is suffering from a life-threatening disease, lets raise funds so that we can help ",
       "Img": "assets/images/images1.jpg",
-      "donation": 20
+      "donation": 75
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "amount": "10000",
       "description": "Support Bob's educational expenses for higher studies.",
       "Img": "assets/images/images1.jpg",
-      "donation": "0"
+      "donation": 155
     },
     {
       "id": 3,
@@ -117,9 +117,20 @@
       "accountnumber": "11111111111",
       "amount": "55",
       "description": "mmnn",
-      "Img": "assets/images/CTS_Logo.jpg",
+      "Img": "assets/images/images6.jpg",
       "donation": 55,
       "id": 12
+    },
+    {
+      "beneficiary": "Shreyasi Ghosh",
+      "gender": "Female",
+      "email": "shreoghosh99@gamil.com",
+      "accountnumber": "223312",
+      "amount": "55",
+      "description": "education",
+      "Img": "assets/images/images6.jpg",
+      "donation": 143,
+      "id": 13
     }
   ]
 }

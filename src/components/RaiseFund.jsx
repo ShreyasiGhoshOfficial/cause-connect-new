@@ -153,7 +153,7 @@ const RaiseFund = () => {
         "donation":"0"
       }
 
-      axios.post("http://localhost:3000/users", data)
+      axios.post("http://localhost:3000/users/", data)
       .then((res)=>{
 
       }).catch(err=>{

@@ -46,7 +46,7 @@ const UpdateFund = () => {
         if((img) && fund.Img !== ImgURL){
             data.Img = ImgURL;
         }
-        axios.put("http://localhost:3000/users"+fundID, data)
+        axios.put("http://localhost:3000/users/"+fundID, data)
         .then(response => {
             setFund(response.data)
         }).catch(error=>{
